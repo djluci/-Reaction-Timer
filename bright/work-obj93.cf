@@ -1,0 +1,7 @@
+v 4
+file . "brighttest.vhd" "b57d38564fcc65c5dff50bf34c0464a769ea284c" "20231003181542.638":
+  entity brighttest at 7( 104) + 0 on 13;
+  architecture test of brighttest at 15( 243) + 0 on 14;
+file . "bright.vhd" "84fda6adb04243ad64906d637e4e84ddbc0292ba" "20231003181542.633":
+  entity bright at 8( 229) + 0 on 11;
+  architecture rtl of bright at 22( 435) + 0 on 12;
